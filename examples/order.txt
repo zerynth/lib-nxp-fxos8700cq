@@ -1,0 +1,3 @@
+#Nxp
+    ##FXOS8700CQ
+		get_accel_magn

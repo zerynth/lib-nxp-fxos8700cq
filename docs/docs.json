@@ -1,0 +1,8 @@
+{
+	"version":"1.0.0",
+	"title":"FXOS8700CQ",
+	"copyright":"Zerynth Team",
+	"files":[
+		["FXOS8700CQ","fxos8700cq.py"]
+	]
+}

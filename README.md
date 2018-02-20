@@ -1,1 +1,0 @@
-# lib-nxp-fxos8700cq
