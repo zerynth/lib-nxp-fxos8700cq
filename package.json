@@ -17,6 +17,6 @@
     ],
     "repo": "official",
     "title": "FXOS8700CQ Accelerometer and Magnetometer",
-    "version": "r2.0.11",
+    "version": "r2.1.0",
     "whatsnew": "First Release"
 }
