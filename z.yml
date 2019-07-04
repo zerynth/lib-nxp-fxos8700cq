@@ -1,0 +1,15 @@
+---
+description: Driver for NXP FXOS8700CQ Accelerometer and Magnetometer
+fullname: lib.nxp.fxos8700cq
+info:
+    chip_manufacturer: NXP
+    chip_name: FXOS8700CQ
+    name: Accelerometer and Magnetometer
+    type: Sensor
+keywords:
+- nxp
+- accelerometer
+- magnetometer
+- sensor
+title: FXOS8700CQ Accelerometer and Magnetometer
+...
